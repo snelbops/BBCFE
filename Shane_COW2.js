@@ -372,8 +372,8 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/Bitmap2.png", id:"Bitmap2"},
-		{src:"images/MA_rocket 2_atlas_1.png", id:"MA_rocket 2_atlas_1"},
+		{src:"https://drive.google.com/drive/folders/1BCoTTdmLwHhxMYtf7YPR9PzoeoK_OI_C?usp=sharing/Bitmap2.png", id:"Bitmap2"},
+		{src:"https://drive.google.com/drive/folders/1BCoTTdmLwHhxMYtf7YPR9PzoeoK_OI_C?usp=sharing/MA_rocket 2_atlas_1.png", id:"MA_rocket 2_atlas_1"},
 		{src:"sounds/ES_VoiceClipMale133SFXProducer.mp3", id:"ES_VoiceClipMale133SFXProducer"},
 		{src:"sounds/PRELWhoosh69_1.mp3", id:"PRELWhoosh69_1"}
 	],
